@@ -1,21 +1,33 @@
-## Hey! 👋
-I'm Asad, a full-stack developer from Pakistan.
+## Asad Ali Haider
 
-- 🌱 I'm a Full-Stack Freelancer at Upwork.
-- 😄 Pronouns: He/him
-- 🙅‍ Besides having great skills, I believe learning must never end! I have learnt many soft skills as well such as Collaboration, Time management, Attention to Detail, and Expression of Ideas.
-- 🎮 In my free time, I'm a gaming geek, I love to play Multiplayer games like Call of Duty and Story Mode Games.
-- ✈️ Love exploring off-beat hikes and peaks in Northern Pakistan. My absolute favourite: [Fairy Meadows](https://github.com/zidsa](https://www.google.com/search?gs_ssp=eJzj4tbP1TcwNLQsqjJKMWD04k1LzCyqVMhNTUzJLy8GAHPhCOE&q=fairy+meadows&rlz=1C5MACD_enPK1040PK1040&oq=fairy+med&aqs=chrome.1.69i57j46i10i433i512j0i10i512l2j46i10i175i199i512i664i665j0i10i512l4.3517j0j7&sourceid=chrome&ie=UTF-8)).
-- ⚡ Fun fact: I still watch Cartoons 🥲
+Senior full stack developer: Php/Laravel & Node on the back end, Livewire, Vue and React on the front end. 7+ years building e-commerce and SaaS products, and lately adding AI features to them with RAG, MCP servers and tool-calling agents.
 
-## Skills
-- 👨‍💻 JavaScript, TypeScript, Livewire, Vue, Nuxt, Node
-- 🅱 Php, CodeIgnitor, Laravel, WordPress
-- 🍥 CSS, SASS, Tailwind CSS, Bootstrap, Stylus
-- 🧳 MySQL, SQL, Mongo, Firebase
-- 🖌️ Figma, Adobe Illustrator, CorelDraw
+Lahore / Gujranwala, Pakistan · open to senior full stack roles (onsite in Lahore or remote) and freelance projects
 
-## Contact
+### Recent work
 
-- 💬 Ask me about ***Anything***!
-- 📫 How to reach me: <a href="mailto:itsasadalihaider@gmail.com">Email</a>, <a href="https://www.linkedin.com/in/asadalihaider/">LinkedIn</a>
+- **MarineParts (Finland)**: Worked on Laravel + LunarPHP e-commerce store with a Livewire storefront, Akeneo PIM and Twill CMS integrations. I worked on the rework of the core shopping flows, which lifted sales 15% and retention 20%.
+- **JinnByte (Lahore)**: Associate Backend Team Lead. Led a team of API engineers and owned code review.
+- **Zid (Saudi e-commerce platform)**: Vue / Nuxt front end, then 15 months on the Laravel back end.
+- **City Care Lab**: multi-tenant Laravel system for medical labs. One codebase serves several labs, with each lab's data kept separate.
+- Also built the product site for [XPipe](https://xpipe.io) (open source, ~14k GitHub stars) and the documentation site for Adam Shaw's (creator of FullCalendar) Temporal polyfill.
+- 79 jobs on [Upwork](https://www.upwork.com/freelancers/~0152c5ac8c2d1c1e1a) with a 100% Job Success Score.
+
+### Open source
+
+| Project | What it does | Stack |
+|---|---|---|
+| [laravel-mcp-server](https://github.com/asadalihaider/laravel-mcp-server) | Model Context Protocol server for a Laravel store. Hand-written JSON-RPC layer with stdio and streamable HTTP transports | Laravel 12, PHP 8.2 |
+| [agent-flow](https://github.com/asadalihaider/agent-flow) | YAML workflow engine for LLM steps, tool calls, branching and retries, with runs that resume after a crash. 255 tests | TypeScript, Node 22 |
+| [docs-rag](https://github.com/asadalihaider/docs-rag) | Q&A over docs with hybrid BM25 + vector search. Refuses to answer when the docs don't cover it, and strips citations the model makes up. 99 tests | TypeScript, Fastify, pgvector |
+| [Sakina](https://github.com/asadalihaider/pray-with-sakina) | macOS menu bar prayer companion. Installs with Homebrew | Tauri, React |
+
+### Stack
+
+- **Back end:** Laravel, PHP, Livewire, Filament, Node.js, MySQL, PostgreSQL
+- **Front end:** Vue / Nuxt, React, TypeScript, Alpine.js, Tailwind CSS
+- **AI:** OpenAI and Claude APIs, RAG, pgvector, MCP
+
+### Contact
+
+[itsasadalihaider@gmail.com](mailto:itsasadalihaider@gmail.com) · [LinkedIn](https://www.linkedin.com/in/asadalihaider/) · [Upwork](https://www.upwork.com/freelancers/~0152c5ac8c2d1c1e1a)
